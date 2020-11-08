@@ -1,33 +1,624 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Hiking Adventures]]></title><description><![CDATA[Documenting my hiking adventures]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 08 Nov 2020 03:33:50 GMT</lastBuildDate><item><title><![CDATA[MacRitchie Reservoir]]></title><description><![CDATA[Coming soon!]]></description><link>https://gatsby-starter-blog-demo.netlify.app/macritchie-reservoir/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/macritchie-reservoir/</guid><pubDate>Sat, 24 Oct 2020 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Coming soon!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Hiking Adventures]]></title><description><![CDATA[Documenting my hiking adventures]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 08 Nov 2020 15:04:16 GMT</lastBuildDate><item><title><![CDATA[MacRitchie Reservoir]]></title><description><![CDATA[Background information Address: MacRitchie Reservoir Park, Singapore 298717 11km of walking trail How I got there Took bus 855 to Opp…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/macritchie-reservoir/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/macritchie-reservoir/</guid><pubDate>Sat, 24 Oct 2020 22:12:03 GMT</pubDate><content:encoded>&lt;h3&gt;Background information&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Address: MacRitchie Reservoir Park, Singapore 298717&lt;/li&gt;
+&lt;li&gt;11km of walking trail&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;How I got there&lt;/h3&gt;
+&lt;p&gt;Took bus 855 to Opp Macritchie Reservoir bus stop.&lt;/p&gt;
+&lt;h3&gt;My route&lt;/h3&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/hiking/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg&quot;
+    href=&quot;/hiking/static/f56bcb4a4a41d2143f06cce7ed66e292/47311/macritchie-route.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dXC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEhEy/9oACAEBAAEFAkqW2DlnRj73yf/EABcRAQADAAAAAAAAAAAAAAAAAAAREkH/2gAIAQMBAT8B1WX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQL/2gAIAQIBAT8Bi6f/xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRISIxMv/aAAgBAQAGPwK9GNocyS8hCj//xAAbEAADAQADAQAAAAAAAAAAAAABESEAMUGBof/aAAgBAQABPyGxNMfrLHmCDZmAzzvJJDjEQCHv/9oADAMBAAIAAwAAABDIL//EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAwEBPxARhylZv//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EFoktI//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAxIWFBcYHh/9oACAEBAAE/EEbMLQ0fMHDVaPIXyI4pk4JUnWacNCtO8ojDE9TGIYES7/Jn/9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 186.0759493670886%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAlABQDASIAAhEBAxEB/8QAGgABAQACAwAAAAAAAAAAAAAAAAEDBQIEBv/EABYBAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAAB7l4pnIjawzz437QBDQH/xAAaEAACAwEBAAAAAAAAAAAAAAAAAQMTMSBB/9oACAEBAAEFAhcItjLoy6MZg98Gf//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BX//EABYRAAMAAAAAAAAAAAAAAAAAABARIP/aAAgBAgEBPwEKP//EAB0QAAEEAgMAAAAAAAAAAAAAAAABAiAyECERMZH/2gAIAQEABj8Cjsu0u30umNodcQ//xAAeEAACAgICAwAAAAAAAAAAAAAAAREhMVEQQXGx4f/aAAgBAQABPyGdIZbKHQ50SgP63DLn7yTSbnSFbIRdPAMPoyP/2gAMAwEAAgADAAAAECgKAnAP/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEREDH/2gAIAQMBAT8QXSIapFv/xAAXEQADAQAAAAAAAAAAAAAAAAAAEBFh/9oACAECAQE/EC4kf//EAB4QAQADAAICAwAAAAAAAAAAAAEAESExYVGRQYHB/9oACAEBAAE/EEvQ01EI03g8yl8S+xK5beIEa6sqnYXsX0QyKFl6djZ+aGhUOZ4jOaAI8VCA0Ew4+405+117gxr7iFoJnm5hz//Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Chinese Salty Egg&quot;
-        title=&quot;Chinese Salty Egg&quot;
-        src=&quot;/hiking/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg&quot;
-        srcset=&quot;/hiking/static/8058f3f26913fea3b6a89a73344fe94a/ff44c/salty_egg.jpg 158w,
-/hiking/static/8058f3f26913fea3b6a89a73344fe94a/a6688/salty_egg.jpg 315w,
-/hiking/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg 630w,
-/hiking/static/8058f3f26913fea3b6a89a73344fe94a/0ede0/salty_egg.jpg 945w,
-/hiking/static/8058f3f26913fea3b6a89a73344fe94a/3ac88/salty_egg.jpg 1260w,
-/hiking/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg 2048w&quot;
+        alt=&quot;macritchie Route&quot;
+        title=&quot;macritchie Route&quot;
+        src=&quot;/hiking/static/f56bcb4a4a41d2143f06cce7ed66e292/828fb/macritchie-route.jpg&quot;
+        srcset=&quot;/hiking/static/f56bcb4a4a41d2143f06cce7ed66e292/ff44c/macritchie-route.jpg 158w,
+/hiking/static/f56bcb4a4a41d2143f06cce7ed66e292/a6688/macritchie-route.jpg 315w,
+/hiking/static/f56bcb4a4a41d2143f06cce7ed66e292/828fb/macritchie-route.jpg 630w,
+/hiking/static/f56bcb4a4a41d2143f06cce7ed66e292/0ede0/macritchie-route.jpg 945w,
+/hiking/static/f56bcb4a4a41d2143f06cce7ed66e292/47311/macritchie-route.jpg 1080w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The Southern Ridges]]></title><description><![CDATA[Coming soon!]]></description><link>https://gatsby-starter-blog-demo.netlify.app/the-southern-ridges/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/the-southern-ridges/</guid><pubDate>Tue, 06 Oct 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Coming soon!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Sungei Buloh Wetland Reserve]]></title><description><![CDATA[Coming soon!]]></description><link>https://gatsby-starter-blog-demo.netlify.app/sungei-buloh-wetland-reserve/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/sungei-buloh-wetland-reserve/</guid><pubDate>Sun, 04 Oct 2020 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Coming soon!&lt;/p&gt;</content:encoded></item></channel></rss>
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Started from near the bus stop and then also ended at the bus stop (actually forgot to stop the tracking at the bus stop itself so the final part included a small bit of the bus ride back home)&lt;/p&gt;
+&lt;p&gt;Unfortunately, TreeTop Walk is closed until next year.&lt;/p&gt;
+&lt;p&gt;I’ve been here twice, but during the first trip, I just did a round trip between the starting place and Jelutong Tower. The second trip covers the entire MacRitchie Nature Trial.&lt;/p&gt;
+&lt;p&gt;Photos shown here were taken from the first trip though, as I didn’t take any during the second trip.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/parks-and-nature-reserve/central-catchment/ccnr_base.pdf&quot;&gt;Link to walking route map&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;The experience&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/hiking/static/6a126763691362113bb4c986e41ed9d1/eea4a/macritchie-1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABdMDJSSBf/8QAGRAAAgMBAAAAAAAAAAAAAAAAAAECEhQE/9oACAEBAAEFAl0xkakayqKlD//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AYf/xAAXEQEAAwAAAAAAAAAAAAAAAAAAARES/9oACAECAQE/AdLl/8QAGxAAAQQDAAAAAAAAAAAAAAAAAAECECExMqH/2gAIAQEABj8CspHKadjMf//EABwQAAICAgMAAAAAAAAAAAAAAAARASExoVFhsf/aAAgBAQABPyGJm0LoVvKHKx+iTmQnOj//2gAMAwEAAgADAAAAEGzv/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERUf/aAAgBAwEBPxCyPD//xAAVEQEBAAAAAAAAAAAAAAAAAAAREP/aAAgBAgEBPxBkv//EAB4QAAICAgIDAAAAAAAAAAAAAAERACExUUFhcdHh/9oACAEBAAE/EFHyqZj31AcGqoKAOql9r4+IQmDJ2ThyHze5aUIn/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;macritchie 1&quot;
+        title=&quot;macritchie 1&quot;
+        src=&quot;/hiking/static/6a126763691362113bb4c986e41ed9d1/828fb/macritchie-1.jpg&quot;
+        srcset=&quot;/hiking/static/6a126763691362113bb4c986e41ed9d1/ff44c/macritchie-1.jpg 158w,
+/hiking/static/6a126763691362113bb4c986e41ed9d1/a6688/macritchie-1.jpg 315w,
+/hiking/static/6a126763691362113bb4c986e41ed9d1/828fb/macritchie-1.jpg 630w,
+/hiking/static/6a126763691362113bb4c986e41ed9d1/0ede0/macritchie-1.jpg 945w,
+/hiking/static/6a126763691362113bb4c986e41ed9d1/3ac88/macritchie-1.jpg 1260w,
+/hiking/static/6a126763691362113bb4c986e41ed9d1/eea4a/macritchie-1.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Wow, 11km is really no joke (at least for unhealthy old me). Anyway, the path starts off like any park as usual, with all the nice greenery.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/hiking/static/26e03c30f47a5339f3550e065a6dd137/eea4a/macritchie-5.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQADBP/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAAB6imTSOtbL//EABkQAAIDAQAAAAAAAAAAAAAAAAERAAIDEv/aAAgBAQABBQJWm2fFiUdDzRMET//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/AQn/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwFn/8QAGRAAAQUAAAAAAAAAAAAAAAAAEAARITFB/9oACAEBAAY/AsVuIP8A/8QAGRABAQEBAQEAAAAAAAAAAAAAAREAIUEx/9oACAEBAAE/IS6e/vMfIL0ywLmB5dFEq4Lv/9oADAMBAAIAAwAAABDnL//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EDH/xAAWEQEBAQAAAAAAAAAAAAAAAAABACH/2gAIAQIBAT8QQ2X/xAAaEAEAAwEBAQAAAAAAAAAAAAABABEhMUFh/9oACAEBAAE/ENYZ7XuHBzdHBjSgZxjFfYiZuCr1y4+6bR7P/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;macritchie 5&quot;
+        title=&quot;macritchie 5&quot;
+        src=&quot;/hiking/static/26e03c30f47a5339f3550e065a6dd137/828fb/macritchie-5.jpg&quot;
+        srcset=&quot;/hiking/static/26e03c30f47a5339f3550e065a6dd137/ff44c/macritchie-5.jpg 158w,
+/hiking/static/26e03c30f47a5339f3550e065a6dd137/a6688/macritchie-5.jpg 315w,
+/hiking/static/26e03c30f47a5339f3550e065a6dd137/828fb/macritchie-5.jpg 630w,
+/hiking/static/26e03c30f47a5339f3550e065a6dd137/0ede0/macritchie-5.jpg 945w,
+/hiking/static/26e03c30f47a5339f3550e065a6dd137/3ac88/macritchie-5.jpg 1260w,
+/hiking/static/26e03c30f47a5339f3550e065a6dd137/eea4a/macritchie-5.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;After a short walk, the path splits between Chemperai Boardwalk and Lornie Trail. In my first trip, I got to experience both ways because of the round trip. For the second trip, I took the Chemperai Boardwalk to avoid the muddy path.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/hiking/static/b1de2b1d7a6c78b3b9d5acae0b55594f/eea4a/macritchie-4.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABlefXBSYT/8QAGRAAAgMBAAAAAAAAAAAAAAAAAAIDESEx/9oACAEBAAEFAlaiTGOkmln/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwGI/8QAGBAAAgMAAAAAAAAAAAAAAAAAABABESH/2gAIAQEABj8Cg12v/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAERQSExYf/aAAgBAQABPyHCdGgTKYopYoSgl0TVuyds/9oADAMBAAIAAwAAABDj/wD/xAAWEQADAAAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8QSpD/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPxCB/8QAGxABAAMBAQEBAAAAAAAAAAAAAQARITFRQWH/2gAIAQEAAT8QLVVrXOy6Wtmtv7FVRPoeypNQDFdYft2iUes//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;macritchie 4&quot;
+        title=&quot;macritchie 4&quot;
+        src=&quot;/hiking/static/b1de2b1d7a6c78b3b9d5acae0b55594f/828fb/macritchie-4.jpg&quot;
+        srcset=&quot;/hiking/static/b1de2b1d7a6c78b3b9d5acae0b55594f/ff44c/macritchie-4.jpg 158w,
+/hiking/static/b1de2b1d7a6c78b3b9d5acae0b55594f/a6688/macritchie-4.jpg 315w,
+/hiking/static/b1de2b1d7a6c78b3b9d5acae0b55594f/828fb/macritchie-4.jpg 630w,
+/hiking/static/b1de2b1d7a6c78b3b9d5acae0b55594f/0ede0/macritchie-4.jpg 945w,
+/hiking/static/b1de2b1d7a6c78b3b9d5acae0b55594f/3ac88/macritchie-4.jpg 1260w,
+/hiking/static/b1de2b1d7a6c78b3b9d5acae0b55594f/eea4a/macritchie-4.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This is how Lornie Trail looked like - a very pleasant walk while enjoying the shelter provided by the trees. The muddy road was not pleasant though.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/hiking/static/c68f88858030232473afc017ac7bb2b6/eea4a/macritchie-3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAABVTtOTEOCf//EABsQAAICAwEAAAAAAAAAAAAAAAEDAAIQEhMx/9oACAEBAAEFAqdBBdoGkV63H//EABYRAAMAAAAAAAAAAAAAAAAAABARIf/aAAgBAwEBPwFQf//EABYRAAMAAAAAAAAAAAAAAAAAAAABEv/aAAgBAgEBPwGmUz//xAAbEAACAQUAAAAAAAAAAAAAAAAAAQIRICEiof/aAAgBAQAGPwLVlG4mZcs//8QAHBAAAgICAwAAAAAAAAAAAAAAAREAMRAhUWFx/9oACAEBAAE/IT0pZpsQwaDkzd2eoIbqWeP/2gAMAwEAAgADAAAAEMvf/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAh/9oACAEDAQE/EE6n/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QCh//xAAbEAEAAgIDAAAAAAAAAAAAAAABACERMUFRYf/aAAgBAQABPxBpY+zM841ENqxYT2i5at52kUqZRXk28hLmXtn/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;macritchie 3&quot;
+        title=&quot;macritchie 3&quot;
+        src=&quot;/hiking/static/c68f88858030232473afc017ac7bb2b6/828fb/macritchie-3.jpg&quot;
+        srcset=&quot;/hiking/static/c68f88858030232473afc017ac7bb2b6/ff44c/macritchie-3.jpg 158w,
+/hiking/static/c68f88858030232473afc017ac7bb2b6/a6688/macritchie-3.jpg 315w,
+/hiking/static/c68f88858030232473afc017ac7bb2b6/828fb/macritchie-3.jpg 630w,
+/hiking/static/c68f88858030232473afc017ac7bb2b6/0ede0/macritchie-3.jpg 945w,
+/hiking/static/c68f88858030232473afc017ac7bb2b6/3ac88/macritchie-3.jpg 1260w,
+/hiking/static/c68f88858030232473afc017ac7bb2b6/eea4a/macritchie-3.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;After that, it was just a straight and long path next to Singapore Island Country Club.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/hiking/static/e436481642f45f527b2d47ae524c3bc7/eea4a/macritchie-2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EABYBAQEBAAAAAAAAAAAAAAAAAAEAA//aAAwDAQACEAMQAAABzHbOmIxP/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAAxIRIf/aAAgBAQABBQLRhsPNStQyFFyT7//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AYf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFH/8QAGRAAAgMBAAAAAAAAAAAAAAAAACEBEDFx/9oACAEBAAY/AuGunBKr/8QAGxABAAICAwAAAAAAAAAAAAAAAQARMUEhYZH/2gAIAQEAAT8huRvCVhxsr3A7PZnlBpWzcaP/2gAMAwEAAgADAAAAEP8Az//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxCOP//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/EKf/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMaFBkbH/2gAIAQEAAT8QYJNBr6ODMuqGpx4wdbK3ZuL4Mea33hJhQW0w7j1n/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;macritchie 2&quot;
+        title=&quot;macritchie 2&quot;
+        src=&quot;/hiking/static/e436481642f45f527b2d47ae524c3bc7/828fb/macritchie-2.jpg&quot;
+        srcset=&quot;/hiking/static/e436481642f45f527b2d47ae524c3bc7/ff44c/macritchie-2.jpg 158w,
+/hiking/static/e436481642f45f527b2d47ae524c3bc7/a6688/macritchie-2.jpg 315w,
+/hiking/static/e436481642f45f527b2d47ae524c3bc7/828fb/macritchie-2.jpg 630w,
+/hiking/static/e436481642f45f527b2d47ae524c3bc7/0ede0/macritchie-2.jpg 945w,
+/hiking/static/e436481642f45f527b2d47ae524c3bc7/3ac88/macritchie-2.jpg 1260w,
+/hiking/static/e436481642f45f527b2d47ae524c3bc7/eea4a/macritchie-2.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Finally reached Jelutong Tower, which was another simply tower for observation. It has more stories so it was more tiring to climb to the top, and I wouldn’t say that the view is that great either to be honest.&lt;/p&gt;
+&lt;p&gt;Then, it was just continuing the rest of the path, passing by the closed TreeTop Walk. There’s a ranger station too for a quick toilet break or refilling your water bottle.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The Southern Ridges]]></title><description><![CDATA[Background information Opening hours: 0700 - 1900 10 km of green, open spaces that connect Mount Faber Park, Telok Blangah Hill Park…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/the-southern-ridges/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/the-southern-ridges/</guid><pubDate>Tue, 06 Oct 2020 23:46:37 GMT</pubDate><content:encoded>&lt;h3&gt;Background information&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Opening hours: 0700 - 1900&lt;/li&gt;
+&lt;li&gt;10 km of green, open spaces that connect Mount Faber Park, Telok Blangah Hill Park, HortPark, Kent Ridge Park and Labrador Nature Reserve&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;How I got there&lt;/h3&gt;
+&lt;p&gt;Took MRT to one-north station, but you can start from Kent Ridge MRT.&lt;/p&gt;
+&lt;h3&gt;My route&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/hiking/static/ffec05b555121363f7336939fb1957a6/47311/southern-route.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 189.873417721519%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAmABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECBgT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB71UWBSM1FmkZwTAoH//EABsQAAIDAAMAAAAAAAAAAAAAAAABERIhIDFB/9oACAEBAAEFAuTZZFh6YOJ8H3//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AV//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AV//xAAYEAADAQEAAAAAAAAAAAAAAAAAICExEP/aAAgBAQAGPwJ9N5SJ/8QAHRAAAgICAwEAAAAAAAAAAAAAAREAIRAxQWGRgf/aAAgBAQABPyEF3lKM8g/MBHI9nQ9gBmouFRjQWoA1Kg6tdwvlDawf/9oADAMBAAIAAwAAABB397FwD//EABgRAQADAQAAAAAAAAAAAAAAAAEAEBEx/9oACAEDAQE/EKR3sxv/xAAZEQADAAMAAAAAAAAAAAAAAAAAAREQIUH/2gAIAQIBAT8QpTXURZ//xAAfEAEAAgICAgMAAAAAAAAAAAABABEhMUFREGFxkfH/2gAIAQEAAT8QrfLVyrMeFLGRdaqJFi32l4i4H1p+QhxraEIVMA0hjb2rc3CUMHNxUik64j5VwbiytX2z/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;southern Route&quot;
+        title=&quot;southern Route&quot;
+        src=&quot;/hiking/static/ffec05b555121363f7336939fb1957a6/828fb/southern-route.jpg&quot;
+        srcset=&quot;/hiking/static/ffec05b555121363f7336939fb1957a6/ff44c/southern-route.jpg 158w,
+/hiking/static/ffec05b555121363f7336939fb1957a6/a6688/southern-route.jpg 315w,
+/hiking/static/ffec05b555121363f7336939fb1957a6/828fb/southern-route.jpg 630w,
+/hiking/static/ffec05b555121363f7336939fb1957a6/0ede0/southern-route.jpg 945w,
+/hiking/static/ffec05b555121363f7336939fb1957a6/47311/southern-route.jpg 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Started somewhere near one-north MRT and ended when I entered Vivocity.&lt;/p&gt;
+&lt;p&gt;Basically took Route A (but starting from Kent Ridge), which did not cover Labrador Nature Reserve.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nparks.gov.sg/~/media/nparks-real-content/gardens-parks-and-nature/diy-walk/diy-walk-pdf-files/hortpark-and-southern-ridges.pdf&quot;&gt;Link to walking route map&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;The experience&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/hiking/static/dd2e767273462d5484b21b84170cacae/eea4a/southern-1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAD/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAED/9oADAMBAAIQAxAAAAExUxrMDa1f/8QAGxAAAgEFAAAAAAAAAAAAAAAAAQIDAAQRITH/2gAIAQEAAQUCRyDK5KHsVMM2z6b/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwGI/8QAFhEAAwAAAAAAAAAAAAAAAAAAAQIQ/9oACAECAQE/ASs//8QAGRAAAgMBAAAAAAAAAAAAAAAAAAEQEiEx/9oACAEBAAY/As6K0tsw/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAERQSEx/9oACAEBAAE/IasE3Cel1Th3RCBXBrLwf//aAAwDAQACAAMAAAAQqP8A/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREQ/9oACAEDAQE/EIWY/8QAFREBAQAAAAAAAAAAAAAAAAAAAQD/2gAIAQIBAT8QBIL/xAAcEAEAAgMAAwAAAAAAAAAAAAABABEhMUFRYYH/2gAIAQEAAT8QKZk7rMK5Bl4InUpvu2DD63B4C8/SIqoB74T/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;southern 1&quot;
+        title=&quot;southern 1&quot;
+        src=&quot;/hiking/static/dd2e767273462d5484b21b84170cacae/828fb/southern-1.jpg&quot;
+        srcset=&quot;/hiking/static/dd2e767273462d5484b21b84170cacae/ff44c/southern-1.jpg 158w,
+/hiking/static/dd2e767273462d5484b21b84170cacae/a6688/southern-1.jpg 315w,
+/hiking/static/dd2e767273462d5484b21b84170cacae/828fb/southern-1.jpg 630w,
+/hiking/static/dd2e767273462d5484b21b84170cacae/0ede0/southern-1.jpg 945w,
+/hiking/static/dd2e767273462d5484b21b84170cacae/3ac88/southern-1.jpg 1260w,
+/hiking/static/dd2e767273462d5484b21b84170cacae/eea4a/southern-1.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;First, we walked through Kent Ridge Park. I think I might have missed the Canopy Walk by taking the wrong path though, but oh well.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/hiking/static/d64537ca89cb92882425a310e37af3e0/eea4a/southern-2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAE1sXGDUHJ//8QAHBAAAQMFAAAAAAAAAAAAAAAAAgEDEgQQERMx/9oACAEBAAEFAopJt3W2VSGT6K2//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BZ//EABYRAAMAAAAAAAAAAAAAAAAAAAABIf/aAAgBAgEBPwFOFP/EABsQAAIBBQAAAAAAAAAAAAAAAAABAiAhMTJh/9oACAEBAAY/ArMUWsdNKP/EAB0QAQACAQUBAAAAAAAAAAAAAAEAIRExQWFxgcH/2gAIAQEAAT8hGZbtf2cc/NojMXoTV7iNrFcz/9oADAMBAAIAAwAAABCHz//EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPxAIv//EABcRAAMBAAAAAAAAAAAAAAAAAAABEVH/2gAIAQIBAT8QYqLo/8QAHRABAQACAwADAAAAAAAAAAAAAREAITFRcYGR4f/aAAgBAQABPxBqsOqSPrjIdM1FPzjpQ7RfvN3QoJro/ctIWPPuXN5//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;southern 2&quot;
+        title=&quot;southern 2&quot;
+        src=&quot;/hiking/static/d64537ca89cb92882425a310e37af3e0/828fb/southern-2.jpg&quot;
+        srcset=&quot;/hiking/static/d64537ca89cb92882425a310e37af3e0/ff44c/southern-2.jpg 158w,
+/hiking/static/d64537ca89cb92882425a310e37af3e0/a6688/southern-2.jpg 315w,
+/hiking/static/d64537ca89cb92882425a310e37af3e0/828fb/southern-2.jpg 630w,
+/hiking/static/d64537ca89cb92882425a310e37af3e0/0ede0/southern-2.jpg 945w,
+/hiking/static/d64537ca89cb92882425a310e37af3e0/3ac88/southern-2.jpg 1260w,
+/hiking/static/d64537ca89cb92882425a310e37af3e0/eea4a/southern-2.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I crossed this cool looking overhead bridge which I think should be the Alexandra Arch.&lt;/p&gt;
+&lt;p&gt;There was also the Forest Walk which was really nice, as the entire pathway is like elevated above the forest. Stupid me forgot to take a photo.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/hiking/static/d42e510d883783ba93e6e982b5976999/eea4a/southern-3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUA/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAElI1zBLz83/8QAHBAAAQQDAQAAAAAAAAAAAAAAAQACAwQREhMU/9oACAEBAAEFAoLD4gLJ19TyqQGVyYV//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEh/9oACAECAQE/AY1//8QAHBAAAgEFAQAAAAAAAAAAAAAAAAEyAhAREiFR/9oACAEBAAY/An4bOjLIj5aJ/8QAGhABAAIDAQAAAAAAAAAAAAAAAQARITFBYf/aAAgBAQABPyEjG/XIYIWGdSaw3NlcjkIn/9oADAMBAAIAAwAAABAs/wD/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8QDbG//8QAFhEBAQEAAAAAAAAAAAAAAAAAERAh/9oACAECAQE/ENJH/8QAHBABAAMBAAMBAAAAAAAAAAAAAQARITFBYZGx/9oACAEBAAE/EM7SUCxQhR2KNIcQ4Ow5AF4OP5Eo2IHOlTLQK8JnyJafrJ//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;southern 3&quot;
+        title=&quot;southern 3&quot;
+        src=&quot;/hiking/static/d42e510d883783ba93e6e982b5976999/828fb/southern-3.jpg&quot;
+        srcset=&quot;/hiking/static/d42e510d883783ba93e6e982b5976999/ff44c/southern-3.jpg 158w,
+/hiking/static/d42e510d883783ba93e6e982b5976999/a6688/southern-3.jpg 315w,
+/hiking/static/d42e510d883783ba93e6e982b5976999/828fb/southern-3.jpg 630w,
+/hiking/static/d42e510d883783ba93e6e982b5976999/0ede0/southern-3.jpg 945w,
+/hiking/static/d42e510d883783ba93e6e982b5976999/3ac88/southern-3.jpg 1260w,
+/hiking/static/d42e510d883783ba93e6e982b5976999/eea4a/southern-3.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Then, it was just back to the ground with a huge open space. Lots of different flowers and plants were being grown at the sides and there were some glasshouse looking structures as well.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/hiking/static/f4111461a21728c9f7502567e72033cc/eea4a/southern-5.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBAwQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhADEAAAAd08amGAXBP/xAAaEAACAgMAAAAAAAAAAAAAAAAAAQISAxAT/9oACAEBAAEFAuuMUovVEVkizP/EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AYf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwGq/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAECIRAxMv/aAAgBAQAGPwLtFSTNlZ//xAAdEAEAAQMFAAAAAAAAAAAAAAABABEhcTFRYZGx/9oACAEBAAE/Ia4+kTvWY8qOskjcFMzer3P/2gAMAwEAAgADAAAAEJvf/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8QI//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/EBR//8QAHBABAAMAAgMAAAAAAAAAAAAAAQARITFhUZHR/9oACAEBAAE/EA4HWvCIqF4s+pRbQ9ZG2p72P2KtpjE8Vzt9n//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;southern 5&quot;
+        title=&quot;southern 5&quot;
+        src=&quot;/hiking/static/f4111461a21728c9f7502567e72033cc/828fb/southern-5.jpg&quot;
+        srcset=&quot;/hiking/static/f4111461a21728c9f7502567e72033cc/ff44c/southern-5.jpg 158w,
+/hiking/static/f4111461a21728c9f7502567e72033cc/a6688/southern-5.jpg 315w,
+/hiking/static/f4111461a21728c9f7502567e72033cc/828fb/southern-5.jpg 630w,
+/hiking/static/f4111461a21728c9f7502567e72033cc/0ede0/southern-5.jpg 945w,
+/hiking/static/f4111461a21728c9f7502567e72033cc/3ac88/southern-5.jpg 1260w,
+/hiking/static/f4111461a21728c9f7502567e72033cc/eea4a/southern-5.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Next, I crossed the even more spectacular Henderson Waves. The bridge was super wide and you can stop to enjoy the breathtaking view.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/hiking/static/0200311dce84a201c414fb6c437d38f0/eea4a/southern-4.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABrTsDMyaND//EABsQAAICAwEAAAAAAAAAAAAAAAECERIAAwQh/9oACAEBAAEFAgyk9ehKlDMqpaaeZ//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABAS/9oACAECAQE/AaP/xAAbEAEAAgIDAAAAAAAAAAAAAAABABECQRAhMv/aAAgBAQAGPwKhFI53XHRLd6ngn//EABwQAQACAgMBAAAAAAAAAAAAAAEAMREhYXGhwf/aAAgBAQABPyF/fCbBYWBcoj2OS2ds1z4ZRQ/af//aAAwDAQACAAMAAAAQhD//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAYEQADAQEAAAAAAAAAAAAAAAAAARExUf/aAAgBAgEBPxCmsK+H/8QAHRABAQACAQUAAAAAAAAAAAAAAREAIYFBUaGx0f/aAAgBAQABPxArQCBsHICkaRq6nbDIGdIXyZftbr3ZEQAruJxjgA5fc//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;southern 4&quot;
+        title=&quot;southern 4&quot;
+        src=&quot;/hiking/static/0200311dce84a201c414fb6c437d38f0/828fb/southern-4.jpg&quot;
+        srcset=&quot;/hiking/static/0200311dce84a201c414fb6c437d38f0/ff44c/southern-4.jpg 158w,
+/hiking/static/0200311dce84a201c414fb6c437d38f0/a6688/southern-4.jpg 315w,
+/hiking/static/0200311dce84a201c414fb6c437d38f0/828fb/southern-4.jpg 630w,
+/hiking/static/0200311dce84a201c414fb6c437d38f0/0ede0/southern-4.jpg 945w,
+/hiking/static/0200311dce84a201c414fb6c437d38f0/3ac88/southern-4.jpg 1260w,
+/hiking/static/0200311dce84a201c414fb6c437d38f0/eea4a/southern-4.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Finally, we entered Mount Faber Park. Was tempted to take the cable car, but decided to walk the final part of the path left and made it to Vivocity!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Sungei Buloh Wetland Reserve]]></title><description><![CDATA[Background information Address: 301 Neo Tiew Crescent, Singapore 718925 Opening hours: 0700 - 1900 Park Size: 202 hectares How I got there…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/sungei-buloh-wetland-reserve/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/sungei-buloh-wetland-reserve/</guid><pubDate>Sun, 04 Oct 2020 22:40:32 GMT</pubDate><content:encoded>&lt;h3&gt;Background information&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Address: 301 Neo Tiew Crescent, Singapore 718925&lt;/li&gt;
+&lt;li&gt;Opening hours: 0700 - 1900&lt;/li&gt;
+&lt;li&gt;Park Size: 202 hectares&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;How I got there&lt;/h3&gt;
+&lt;p&gt;Took a taxi from Yew Tee MRT, but you can take bus 925M near Kranji MRT station.&lt;/p&gt;
+&lt;h3&gt;My route&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/hiking/static/916ed0a582189aa2b5c337cc4dd7f8d7/47311/sungei-route.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.8481012658228%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAEDBQQC/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgEAA//aAAwDAQACEAMQAAAB6ZWUVPRHnjEgddhkKYEQbf/EABsQAAEEAwAAAAAAAAAAAAAAAAABAxAUETFB/9oACAEBAAEFAp7gwWW0LTRZbjQu+Cn/xAAVEQEBAAAAAAAAAAAAAAAAAAAREP/aAAgBAwEBPwEaX//EABcRAQEBAQAAAAAAAAAAAAAAABEQAAH/2gAIAQIBAT8BTPI3/8QAGRAAAgMBAAAAAAAAAAAAAAAAACABQZEx/9oACAEBAAY/AmvDs4W//8QAHBABAAMAAgMAAAAAAAAAAAAAAQARIRAxQYGR/9oACAEBAAE/IXkIpGGlbveMm135YjV5Ow4xrqvXB8TtP//aAAwDAQACAAMAAAAQmz0BgA//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREQ/9oACAEDAQE/EIDUIid//8QAFxEAAwEAAAAAAAAAAAAAAAAAARARMf/aAAgBAgEBPxAFp1P/xAAdEAEBAQEAAwADAAAAAAAAAAABEQAhMUFxEKHx/9oACAEBAAE/EFGAvwyTz+Lx1LlSSfMgy3HwgR1039zkvQXmpKInO9xXD2R6ZmkIT0P1kI53zdC8Bz1uHCb/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Sungei Route&quot;
+        title=&quot;Sungei Route&quot;
+        src=&quot;/hiking/static/916ed0a582189aa2b5c337cc4dd7f8d7/828fb/sungei-route.jpg&quot;
+        srcset=&quot;/hiking/static/916ed0a582189aa2b5c337cc4dd7f8d7/ff44c/sungei-route.jpg 158w,
+/hiking/static/916ed0a582189aa2b5c337cc4dd7f8d7/a6688/sungei-route.jpg 315w,
+/hiking/static/916ed0a582189aa2b5c337cc4dd7f8d7/828fb/sungei-route.jpg 630w,
+/hiking/static/916ed0a582189aa2b5c337cc4dd7f8d7/0ede0/sungei-route.jpg 945w,
+/hiking/static/916ed0a582189aa2b5c337cc4dd7f8d7/47311/sungei-route.jpg 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Only started the tracking at Fantail Pod and ended when we exited the place from the Wetland Centre.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nparks.gov.sg/-/media/walking-route-map-small/walking-route-map.jpg&quot;&gt;Link to walking route map&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;The experience&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/hiking/static/9f4c1760b271732fbe6d8115f7eb12b2/eea4a/sungei-1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB2KiuKROJv//EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMTERL/2gAIAQEAAQUC0hts9G9hOkTR1VXYj//EABURAQEAAAAAAAAAAAAAAAAAAAAS/9oACAEDAQE/AUP/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEv/aAAgBAgEBPwFT/8QAGhABAQACAwAAAAAAAAAAAAAAAQARIRIiMf/aAAgBAQAGPwK6HItl7GG2t//EABsQAAMAAgMAAAAAAAAAAAAAAAABETFxIVGR/9oACAEBAAE/Ic8qaOtAYyLIFG9HxDKJp7P/2gAMAwEAAgADAAAAEOMP/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAEDAQE/EIabt//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPxBcP//EABoQAQEBAAMBAAAAAAAAAAAAAAERACExUXH/2gAIAQEAAT8QZuUdesMlXkSA/d6haXWJbOKmdlacoGpKHtz/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;sungei 1&quot;
+        title=&quot;sungei 1&quot;
+        src=&quot;/hiking/static/9f4c1760b271732fbe6d8115f7eb12b2/828fb/sungei-1.jpg&quot;
+        srcset=&quot;/hiking/static/9f4c1760b271732fbe6d8115f7eb12b2/ff44c/sungei-1.jpg 158w,
+/hiking/static/9f4c1760b271732fbe6d8115f7eb12b2/a6688/sungei-1.jpg 315w,
+/hiking/static/9f4c1760b271732fbe6d8115f7eb12b2/828fb/sungei-1.jpg 630w,
+/hiking/static/9f4c1760b271732fbe6d8115f7eb12b2/0ede0/sungei-1.jpg 945w,
+/hiking/static/9f4c1760b271732fbe6d8115f7eb12b2/3ac88/sungei-1.jpg 1260w,
+/hiking/static/9f4c1760b271732fbe6d8115f7eb12b2/eea4a/sungei-1.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The place feels more suited for a slow, leisurely walk. You can easily cover the whole place in a much shorter time, since I stopped multiple times to enjoy the view of nature.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/hiking/static/9b8a434ac61464375cfb175f6859a341/eea4a/sungei-2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFBpdEzygD/AP/EABoQAQACAwEAAAAAAAAAAAAAAAEAAhIiMUH/2gAIAQEAAQUCMmyXm0J69//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AUf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAYEAACAwAAAAAAAAAAAAAAAAABECAhMf/aAAgBAQAGPwKlhh//xAAcEAABBAMBAAAAAAAAAAAAAAAAAREhQRBhcZH/2gAIAQEAAT8hn08cl2PbEWCvTw//2gAMAwEAAgADAAAAEGT/AP/EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPxCBP//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/EIf/xAAcEAEAAwADAQEAAAAAAAAAAAABABEhMUFRcZH/2gAIAQEAAT8Q1aDdqHJ5B656gwIBL22Qln2HUx9uN0/Cf//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;sungei 2&quot;
+        title=&quot;sungei 2&quot;
+        src=&quot;/hiking/static/9b8a434ac61464375cfb175f6859a341/828fb/sungei-2.jpg&quot;
+        srcset=&quot;/hiking/static/9b8a434ac61464375cfb175f6859a341/ff44c/sungei-2.jpg 158w,
+/hiking/static/9b8a434ac61464375cfb175f6859a341/a6688/sungei-2.jpg 315w,
+/hiking/static/9b8a434ac61464375cfb175f6859a341/828fb/sungei-2.jpg 630w,
+/hiking/static/9b8a434ac61464375cfb175f6859a341/0ede0/sungei-2.jpg 945w,
+/hiking/static/9b8a434ac61464375cfb175f6859a341/3ac88/sungei-2.jpg 1260w,
+/hiking/static/9b8a434ac61464375cfb175f6859a341/eea4a/sungei-2.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;There was this path which we walked by, but it was closed off due to the flood. Not sure if this path is always like this?&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/hiking/static/60f24ea735c461b2959f3c206c90ef59/eea4a/sungei-3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAFuwMiknK//xAAcEAABBAMBAAAAAAAAAAAAAAAAAQMRFAIEEBL/2gAIAQEAAQUCTYwLDZZbPSzPP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAAMBAAAAAAAAAAAAAAAAAABCkSD/2gAIAQEABj8CaDQaY//EABkQAAMBAQEAAAAAAAAAAAAAAAABESEQMf/aAAgBAQABPyGWwnbSh4gwaJrz/9oADAMBAAIAAwAAABDLz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABcRAQADAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8QuWv/xAAbEAEBAQEAAwEAAAAAAAAAAAABEQAhUXGRsf/aAAgBAQABPxBVC8Kn83Eqe0yqQ6xbi9yem5a9D5v/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;sungei 3&quot;
+        title=&quot;sungei 3&quot;
+        src=&quot;/hiking/static/60f24ea735c461b2959f3c206c90ef59/828fb/sungei-3.jpg&quot;
+        srcset=&quot;/hiking/static/60f24ea735c461b2959f3c206c90ef59/ff44c/sungei-3.jpg 158w,
+/hiking/static/60f24ea735c461b2959f3c206c90ef59/a6688/sungei-3.jpg 315w,
+/hiking/static/60f24ea735c461b2959f3c206c90ef59/828fb/sungei-3.jpg 630w,
+/hiking/static/60f24ea735c461b2959f3c206c90ef59/0ede0/sungei-3.jpg 945w,
+/hiking/static/60f24ea735c461b2959f3c206c90ef59/3ac88/sungei-3.jpg 1260w,
+/hiking/static/60f24ea735c461b2959f3c206c90ef59/eea4a/sungei-3.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;There’s quite a number of spots meant for birdwatching and stuff, but all I had was a normal camera.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/hiking/static/110dd9c2b96eeec7e33b8af01cca9f76/eea4a/sungei-4.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACA//EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABC9WMH3Gr/8QAGBABAQADAAAAAAAAAAAAAAAAAQIAEjL/2gAIAQEAAQUCkVgJoJSJNTI5/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Bh//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAEFAQAAAAAAAAAAAAAAAAABEBEhMWH/2gAIAQEABj8CMnpgtP8A/8QAGBABAQEBAQAAAAAAAAAAAAAAAREAQVH/2gAIAQEAAT8hlPcaW/VqiMBIuNzc/9oADAMBAAIAAwAAABCA/wD/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQMBAT8QyEf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAATH/2gAIAQIBAT8QxK//xAAaEAEBAQEAAwAAAAAAAAAAAAABEQAhQVFh/9oACAEBAAE/EICXy5MSVOAl+GNFL6MUwS1mAVL3GIPBd//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;sungei 4&quot;
+        title=&quot;sungei 4&quot;
+        src=&quot;/hiking/static/110dd9c2b96eeec7e33b8af01cca9f76/828fb/sungei-4.jpg&quot;
+        srcset=&quot;/hiking/static/110dd9c2b96eeec7e33b8af01cca9f76/ff44c/sungei-4.jpg 158w,
+/hiking/static/110dd9c2b96eeec7e33b8af01cca9f76/a6688/sungei-4.jpg 315w,
+/hiking/static/110dd9c2b96eeec7e33b8af01cca9f76/828fb/sungei-4.jpg 630w,
+/hiking/static/110dd9c2b96eeec7e33b8af01cca9f76/0ede0/sungei-4.jpg 945w,
+/hiking/static/110dd9c2b96eeec7e33b8af01cca9f76/3ac88/sungei-4.jpg 1260w,
+/hiking/static/110dd9c2b96eeec7e33b8af01cca9f76/eea4a/sungei-4.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;For wildlife, we saw crocodiles, monkeys, birds. The big prize goes to this giant komodo dragon(?) just chilling on the path.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/hiking/static/a72f3a4caff1dd937cbd3a72e8d6a64f/80e3c/sungei-5.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.8481012658228%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAMFAQIEBv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHg0kgkkdi2Oxosnp1WKqcTcL//xAAdEAACAwACAwAAAAAAAAAAAAABAgADESEyBBAT/9oACAEBAAEFAj1z1YOBPhY8DcVNWF8U7TpmtKrGCmJ0VdH/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AV//xAAVEQEBAAAAAAAAAAAAAAAAAAACIP/aAAgBAgEBPwE1/8QAHhAAAAYCAwAAAAAAAAAAAAAAAAECEBEhIDESYaH/2gAIAQEABj8CGyatNySmhHQOU+YVh//EAB0QAAIDAQEAAwAAAAAAAAAAAAERACFBMWEQccH/2gAIAQEAAT8hFia78ZHYtdHAvs1AtcrNVD7A+HvUqot8JhAkagwhUDp/k19yxQTi5//aAAwDAQACAAMAAAAQV/MNBB//xAAXEQADAQAAAAAAAAAAAAAAAAABEBEh/9oACAEDAQE/EBgcf//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxAYQhP/xAAfEAEBAAMAAgIDAAAAAAAAAAABEQAhMUFRYXGBkcH/2gAIAQEAAT8QZx0AKyGGwNewa4gyhOmLKXRTcISv7wovRww4WRECsL194KaFGFBRj+TFaK4GiMO14t/d/uKJtN05j4pBI60mcKB8eHvNKPhhFJZfOXpWjX0Z/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;sungei 5&quot;
+        title=&quot;sungei 5&quot;
+        src=&quot;/hiking/static/a72f3a4caff1dd937cbd3a72e8d6a64f/828fb/sungei-5.jpg&quot;
+        srcset=&quot;/hiking/static/a72f3a4caff1dd937cbd3a72e8d6a64f/ff44c/sungei-5.jpg 158w,
+/hiking/static/a72f3a4caff1dd937cbd3a72e8d6a64f/a6688/sungei-5.jpg 315w,
+/hiking/static/a72f3a4caff1dd937cbd3a72e8d6a64f/828fb/sungei-5.jpg 630w,
+/hiking/static/a72f3a4caff1dd937cbd3a72e8d6a64f/80e3c/sungei-5.jpg 720w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;You can climb this Aerie Tower for a better view of the place. It’s only a few stories tall.&lt;/p&gt;</content:encoded></item></channel></rss>
